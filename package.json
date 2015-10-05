@@ -1,0 +1,14 @@
+{
+  "name": "mysql-ejs",
+  "version": "0.0.1",
+  "description": "A simple microsite expression of interest form to demonstrate node, express, ejs, and mysql",
+  "main": "server.js",
+  "repository": "https://github.com/austincitylimits/mysql",
+  "author": "Austin Cartwright",
+  "dependencies": {
+    "body-parser": ">=1.14.0",
+    "ejs": ">=v2.3.4",
+    "express": ">=4.13.3",
+    "mysql": ">=2.9.0"
+  }
+}
